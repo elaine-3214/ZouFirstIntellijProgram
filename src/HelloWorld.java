@@ -4,7 +4,8 @@ public class HelloWorld
     {
 
         System.out.println("Hello World");
-        System.out.print("Today is Wednesday");
-        System.out.print("It is sunny");
+        System.out.println("Today is Wednesday");
+        System.out.println("It is sunny");
+        System.out.println("It is 6:09 pm");
     }
 }
